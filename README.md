@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Morg9864
 - 👀 I’m interested in coding and playing games
 - 🌱 I’m currently learning Computer Sciences at Uni
-- 💞️ I’m looking to collaborate on any projects you wants !
+- 💞️ I’m looking to collaborate on any projects you want !
 - 📫 How to reach me : (snap == morganmag98) -> True
 
 <!---
