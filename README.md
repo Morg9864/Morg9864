@@ -2,7 +2,11 @@
 - 👀 I’m interested in coding and playing games
 - 🌱 I’m currently learning Computer Sciences at Uni
 - 💞️ I’m looking to collaborate on any projects you want !
-- 📫 How to reach me : (snap == morganmag98) -> True
+- 📫 How to reach me : - Instagram : @morg__2610
+                       - Snapchat : mrg_hms
+                       - Twitter : mrg_hms
+                       - Messenger : Morgan Phemba Magbetha
+                       - Email : morgan.phemba@gmail.com
 
 <!---
 Morg9864/Morg9864 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
