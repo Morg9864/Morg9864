@@ -1,4 +1,4 @@
-### Hey, I'm Sam 👋
+### Hey, I'm Morgan 👋
 
 I'm currently learning to be a fullstack developer.
 
