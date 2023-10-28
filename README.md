@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @Morg9864
-- 👀 I’m interested in coding and playing games
-- 🌱 I’m currently learning Computer Sciences at University of Liege
-- 💞️ I’m looking to collaborate on any projects you want !
-- 📫 How to reach me : - Instagram : @morg__2610
-                       - Twitter : mrg_hms
-                       - Messenger : Morgan Phemba Magbetha
-                       - Email : morgan.phemba@gmail.com
+### Hey, I'm Sam 👋
 
-<!---
-Morg9864/Morg9864 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently learning to be a fullstack developer.
+
+## 🔭 Current
+
+I'm currently working on [Aurora Virtual](https://auroravirtual.uk) - we're a dynamic group of passionate individuals dedicated to redefining your music listening experience. With an unwavering commitment to innovation, our team has meticulously crafted the next best music player application. :)
+
+## ⚡️ Experience
+
+As a full-stack developer, my proficiency spans both front-end and back-end development, with a strong emphasis on the creative and visual aspects of web design. I ought to excel in crafting elegant and user-friendly web interfaces, and I possess the capability to turn these designs into fully functional websites. My passion for the aesthetic and user experience drives me to deliver web solutions that seamlessly blend form and function, making every project a masterpiece in the digital landscape.
+
+## 📫 Contact
+
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/HimmyD_Morg).
+
+If it is a more professional enquiry, you can also email me:
+
+**General Inquiries:** morgan.phemba@gmail.net
