@@ -16,4 +16,4 @@ To contact me quickly and easily, [DM me on Twitter](https://twitter.com/HimmyD_
 
 If it is a more professional enquiry, you can also email me:
 
-**General Inquiries:** morgan.phemba@gmail.net
+**General Inquiries:** morgan.phemba@gmail.com
