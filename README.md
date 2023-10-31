@@ -1,6 +1,6 @@
 ### Hey, I'm Morgan 👋
 
-I'm currently learning to be a fullstack developer.
+I'm learning toward being a fullstack developer.
 
 ## 🔭 Current
 
