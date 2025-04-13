@@ -7,8 +7,6 @@ Software & Web Developer
 * 🌍  I'm based in Liège, Belgium
 * 🖥️  See my portfolio at [morganphemba.be](http://morganphemba.be/)
 * ✉️  You can contact me at [morgan.phemba@gmail.com](mailto:morgan.phemba@gmail.com)
-* 🚀  I'm currently working on [Loup Master](http://loupmaster.morganphemba.be)
-* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on any project
 * ⚡  I'm secretly Batman... But don't tell anything
 
