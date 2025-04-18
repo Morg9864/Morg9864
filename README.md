@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Morgan Phemba 👋</h1>
 <p align="center">
-  <strong>Full‑Stack Developer • Student • Otaku</strong><br/>
+  <strong>Full‑Stack Developer • Web Designer • Student</strong><br/>
   <code>TypeScript</code> • <code>Next.js</code> • <code>MERN</code>
 </p>
 
@@ -40,8 +40,8 @@
 ### 🚀  Latest Projects
 | Project | Description | Tech |
 | --- | --- | --- |
-| **Les Loups-Garous de Thiercelieux** | Java implementation of the classic party game with networking support | Java, JavaFX |
-| **New Portfolio** | My next‑gen personal site with 3D touches and Tailwind | Next.js, Three.js, Tailwind |
+| **ecom‑api** | Headless e‑commerce REST API with JWT auth, role‑based authorization, Cloudinary image uploads, cart & order endpoints, and a payment‑provider webhook stub. | Node.js, Express, MongoDB, Cloudinary |
+| **Formation Complète Git & GitHub** | Interactive Next.js site created for the N‑HiTec training that teaches Git, GitHub & GitLab from scratch. Includes Tailwind styling, Framer Motion animations, branch/merge labs, SSH setup and best practices. | Next.js, Tailwind CSS, Framer Motion |
 
 ---
 
