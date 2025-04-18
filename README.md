@@ -15,7 +15,7 @@
 
 ### 🗺️  About Me
 - 🏡  I live in **Liège, Belgium**  
-- 🎓  Computer Science student obsessed with clean code & game dev  
+- 🎓  Computer Science student obsessed with clean code, games & web dev  
 - 🤝  Open for **collaboration, internships, and freelance gigs**  
 - 🦇  Fun fact: I might be Batman (keep it secret!)  
 
