@@ -75,32 +75,6 @@ const services = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morg9864&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morg9864&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morg9864&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎯 Projets Populaires
-
-<div align="center">
-  <a href="https://github.com/Morg9864/Les-Loups-Garou-De-Thiercelieux-java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Morg9864&repo=Les-Loups-Garou-De-Thiercelieux-java&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Morg9864/KaprekarConstant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Morg9864&repo=KaprekarConstant&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ## 🌟 Ce qui me passionne
 
 - 🚀 **Innovation Technologique** - Toujours à l'affût des dernières tendances
