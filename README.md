@@ -85,12 +85,6 @@ const services = {
 
 ---
 
-## 📈 Activité GitHub
-
-[![Morgan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Morg9864&theme=tokyo-night&hide_border=true)](https://github.com/Morg9864)
-
----
-
 ## 💬 Parlons ensemble !
 
 Je suis toujours ouvert aux nouvelles opportunités et collaborations. N'hésitez pas à me contacter !
@@ -111,8 +105,6 @@ Je suis toujours ouvert aux nouvelles opportunités et collaborations. N'hésite
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 **⭐ N'hésitez pas à me suivre si mes projets vous intéressent !**
-
-![Visitor Count](https://profile-counter.glitch.me/Morg9864/count.svg)
 
 </div>
 
