@@ -13,7 +13,7 @@
 
 **Développeur Web Passionné** | **Étudiant en Informatique** | **Freelancer**
 
-🎓 Étudiant en Master 1 en Informatiques à l'**Université de Liège** (ULiège)  
+🎓 Étudiant en Master 1 en Sciences informatiques, à finalité spécialisée en "management" à l'**Université de Liège** (ULiège)  
 💻 Développeur Web Freelance spécialisé dans les technologies modernes  
 🌍 Basé à Liège, Belgique  
 🎯 Passionné par l'innovation et les solutions créatives
