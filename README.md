@@ -1,128 +1,161 @@
-
-# 👋 Salut, je suis Morgan PHEMBA !
-
 <div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/Morg9864?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Morg9864?style=social)
-[![Portfolio](https://img.shields.io/badge/Portfolio-morganphemba.be-blue?style=flat-square&logo=react)](https://morganphemba.be)
+
+# Morgan Phemba
+
+### Designer & développeur web full-stack
+
+Je transforme des idées en interfaces élégantes, rapides et pensées comme de vrais produits.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-morganphemba.be-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://morganphemba.be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan_Phemba-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/morgphem2610/)
+[![Email](https://img.shields.io/badge/Email-Me_contacter-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:info@morganphemba.be)
 
 </div>
 
-## 🚀 À propos de moi
-
-**Développeur Web Passionné** | **Étudiant en Informatique** | **Freelancer**
-
-🎓 Étudiant en Master 1 en Sciences informatiques, à finalité spécialisée en "management" à l'**Université de Liège** (ULiège)  
-💻 Développeur Web Freelance spécialisé dans les technologies modernes  
-🌍 Basé à Liège, Belgique  
-🎯 Passionné par l'innovation et les solutions créatives
-
 ---
 
-## 💼 Mes Services
+## À propos
 
 ```typescript
-const services = {
-  "Développement Web": {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-    skills: ["Performance", "SEO", "Responsive Design"]
-  },
-  "Conception Web": {
-    tools: ["Figma", "Adobe Creative Suite"],
-    focus: ["UX/UI", "Design System", "Prototypage"]
-  },
-  "Maintenance & Support": {
-    services: ["Bug fixes", "Optimisation", "Mises à jour sécurité"],
-    availability: "Support continu"
-  }
-}
+const morgan = {
+  location: "Liège, Belgique",
+  education: "Master en Sciences informatiques — ULiège",
+  specialization: "Management",
+  roles: [
+    "Designer & développeur web freelance",
+    "IT Manager chez Junior Enterprises Europe",
+    "Consultant IT chez Beego",
+  ],
+  interests: [
+    "Product design",
+    "Développement full-stack",
+    "Intelligence artificielle",
+    "Systèmes et architecture logicielle",
+  ],
+};
 ```
 
----
+Je suis un développeur full-stack avec une forte sensibilité pour le **design d’interface** et la **qualité produit**.
 
-## 🛠️ Stack Technique
+J’aime travailler sur l’ensemble du processus : comprendre un besoin, structurer l’expérience, concevoir l’interface, développer le produit et le déployer.
 
-### Langages de Programmation
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Technologies Web
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### Outils & Plateformes
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+Mon objectif n’est pas simplement de créer des pages qui fonctionnent, mais des produits numériques **cohérents, crédibles et agréables à utiliser**.
 
 ---
 
-## 🌟 Ce qui me passionne
+## Ce sur quoi je travaille
 
-- 🚀 **Innovation Technologique** - Toujours à l'affût des dernières tendances
-- 🎨 **Design & UX** - Créer des expériences utilisateur mémorables  
-- 🤖 **Intelligence Artificielle** - Explorer les possibilités de l'IA dans le développement
-- 📚 **Apprentissage Continu** - Constamment en train d'apprendre de nouvelles technologies
-- 🌍 **Open Source** - Contribuer à la communauté des développeurs
+* Conception et développement d’applications web full-stack
+* Création d’interfaces modernes et de design systems
+* Développement d’outils métiers et de plateformes internes
+* Optimisation des performances, de l’accessibilité et de l’expérience utilisateur
+* Automatisation de workflows avec l’intelligence artificielle
+* Gestion et évolution de produits numériques à l’échelle européenne
 
 ---
 
-## 💬 Parlons ensemble !
+## Stack principale
 
-Je suis toujours ouvert aux nouvelles opportunités et collaborations. N'hésitez pas à me contacter !
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,angular,tailwind,html,css&perline=9" alt="Technologies front-end" />
+</p>
+
+### Back-end et bases de données
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,mongodb,postgres,mysql&perline=8" alt="Technologies back-end" />
+</p>
+
+### Programmation et informatique
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=8" alt="Langages de programmation" />
+</p>
+
+### Outils et plateformes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,postman,aws,vercel,vscode&perline=8" alt="Outils et plateformes" />
+</p>
+
+---
+
+## Mon approche
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Produit
+
+Comprendre le besoin, les utilisateurs et les objectifs avant de choisir une solution technique.
+
+</td>
+<td width="33%" valign="top">
+
+### Design
+
+Construire une hiérarchie claire, des composants cohérents et une expérience visuelle soignée.
+
+</td>
+<td width="33%" valign="top">
+
+### Engineering
+
+Développer des solutions maintenables, performantes et adaptées à leur contexte réel.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Expériences actuelles
+
+**Designer & développeur web full-stack — Freelance**
+Conception et développement de sites, produits web, outils métiers et refontes frontend.
+
+**IT Manager — Junior Enterprises Europe**
+Contribution à la maintenance et au développement des plateformes numériques utilisées par le réseau européen des Junior Entreprises.
+
+**Consultant IT — Beego**
+Accompagnement de clients sur leurs besoins technologiques, leurs outils numériques et leurs problématiques informatiques.
+
+**Étudiant en Master — Université de Liège**
+Master en Sciences informatiques à finalité spécialisée en management.
+
+---
+
+## Projets
+
+Une sélection de mes projets et études de cas est disponible sur mon portfolio.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgphem2610/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/morgsdev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/morg__2610/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://morganphemba.be)
+[![Découvrir mes projets](https://img.shields.io/badge/Découvrir_mes_projets-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://morganphemba.be/#projects)
 
 </div>
 
+Tu peux également consulter mes dépôts épinglés ci-dessous pour découvrir mes expérimentations, projets universitaires et applications personnelles.
+
 ---
+
+
+## Me contacter
+
+Je suis ouvert aux collaborations, missions freelance et projets autour du développement web, du design produit et de l’innovation numérique.
 
 <div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-**⭐ N'hésitez pas à me suivre si mes projets vous intéressent !**
+[![Portfolio](https://img.shields.io/badge/morganphemba.be-Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://morganphemba.be)
+[![LinkedIn](https://img.shields.io/badge/Morgan_Phemba-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/morgphem2610/)
+[![X](https://img.shields.io/badge/@morgsdev-X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/morgsdev)
+[![Instagram](https://img.shields.io/badge/@morg__2610-Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/morg__2610/)
+
+<br>
+
+**Design précis. Code propre. Produits utiles.**
 
 </div>
-
----
-
-<details>
-<summary>🎵 Un peu de fun...</summary>
-
-```
-Morgan.exe est en cours d'exécution...
-████████████████] 100%
-
-> Chargement des compétences... ✅
-> Initialisation de la créativité... ✅  
-> Connexion au café... ✅
-> Mode développeur activé... ✅
-
-Système prêt à coder ! 🚀
-```
-
-</details>
